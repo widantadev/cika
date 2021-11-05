@@ -1,0 +1,82 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 5555px;
+}
+
+.img-model {
+  width: 200px;
+  display: block;
+  margin: 0px auto;
+}
+
+#about {
+  margin-top: 150px;
+}
+
+.img-about {
+  width: 100%;
+}
+
+.about-p {
+  margin-top: 100px;
+}
+
+#love {
+  margin-top: 150px;
+}
+
+#achievement {
+  margin-top: 150px;
+}
+
+#gallery {
+  margin-top: 150px;
+}
+
+.img-achicment {
+  width: 200px;
+  display: block;
+  margin: 0 auto 32px;
+}
+
+@media (max-width: 425px) {
+  .img-model {
+    margin-top: 32px;
+    border-radius: 15px;
+  }
+
+  .img-about {
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .akhir-1 {
+    margin-bottom: 24px;
+  }
+
+  .about-p {
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 375px) {
+  .img-model {
+    margin-top: 32px;
+    border-radius: 15px;
+  }
+
+  .img-about {
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .about-p {
+    margin-top: 20px;
+  }
+}
