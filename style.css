@@ -46,7 +46,7 @@ body {
 .marquee-h1 {
   color: white;
   font-size: 100px;
-  line-height: 845px;
+  line-height: 842px;
   text-transform: uppercase;
 }
 
@@ -87,6 +87,11 @@ body {
     width: 100%;
     display: block;
     margin: 0 auto;
+  }
+
+  .marquee-h1 {
+    color: white;
+    line-height: 842px;
   }
 
   .about-p {
