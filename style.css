@@ -13,6 +13,16 @@ body {
   margin: 0px auto;
 }
 
+.text-1 {
+  font-family: "Marck Script", cursive;
+}
+
+.h3-judul {
+  color: rgb(106, 5, 116);
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
 #about {
   margin-top: 150px;
 }
@@ -53,7 +63,15 @@ body {
 .img-achicment {
   width: 200px;
   display: block;
-  margin: 0 auto 32px;
+  margin: 0 auto;
+}
+
+.text-achievment {
+  margin-top: 32px;
+}
+
+.love-icon {
+  color: red;
 }
 
 @media (max-width: 425px) {
