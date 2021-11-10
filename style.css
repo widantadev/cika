@@ -116,3 +116,18 @@ body {
     margin-top: 20px;
   }
 }
+
+#lagu {
+  background-color: transparent;
+}
+
+#gift {
+  margin-top: 100px;
+  margin-bottom: 80px;
+}
+
+.gift-item {
+  color: rgb(106, 5, 116);
+  font-weight: 700;
+  font-size: 24px;
+}
